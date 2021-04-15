@@ -1,6 +1,7 @@
 module https://github.com/luisbastias/twittor
 
-go 1.4
+go 1.12
 
 requiere(
+
 )
